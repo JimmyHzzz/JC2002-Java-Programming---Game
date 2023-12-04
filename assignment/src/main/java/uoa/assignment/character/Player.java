@@ -9,14 +9,12 @@ public class Player extends GameCharacter{
 	}
 
 	
-	public
-	void hurtCharacter(GameCharacter character) {
+	public void hurtCharacter(GameCharacter character) {
 		
 	}
 
 	
-	public
-	boolean successfulDefense() {
+	public boolean successfulDefense() {
 		return true;
 	}
 

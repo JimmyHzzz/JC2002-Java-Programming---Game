@@ -41,7 +41,7 @@ public class CharacterTests
     /**
      * Task 1.2
      */
-    /*@Test
+    @Test
     public void checkSayName()
     {
        class TestImplementation extends GameCharacter {
@@ -58,7 +58,7 @@ public class CharacterTests
     } catch (Exception | Error e) {
         fail(ANSI_WHITE_BACKGROUND +ANSI_BLACK+"Make sure the constructor of GameCharacter class is modified and sayName() method exist as per T1.2 "+ ANSI_RESET+ e);
     }
-    }*/
+    }
     
     /**
      * Task 1.3
