@@ -6,6 +6,7 @@ import uoa.assignment.character.Player;
 
 public class Map {
 
+<<<<<<< HEAD
     public String [][] layout;
     public GameCharacter characters [] = new GameCharacter[4];
 
@@ -65,3 +66,16 @@ public class Map {
         }
     }
 }
+=======
+public String [][] layout;
+public GameCharacter characters [] ;
+ 
+  Map (int height, int width) {
+	 
+  }
+ 
+  public void printLayout() {
+	
+   }
+}
+>>>>>>> 83c112b30a4c1b325845554430821161ed5a8f92

@@ -8,6 +8,7 @@ public class Player extends GameCharacter{
 		super(name);
 	}
 
+<<<<<<< HEAD
 	@Override
 	public void hurtCharacter(GameCharacter character) {
 		if (!character.successfulDefense()) {
@@ -26,3 +27,16 @@ public class Player extends GameCharacter{
 
 	}
 }
+=======
+	
+	public void hurtCharacter(GameCharacter character) {
+		
+	}
+
+	
+	public boolean successfulDefense() {
+		return true;
+	}
+
+}
+>>>>>>> 83c112b30a4c1b325845554430821161ed5a8f92

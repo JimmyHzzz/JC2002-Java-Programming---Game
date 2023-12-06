@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="uoa.assignment.game.GameTests" time="0.003" tests="4" errors="0" skipped="0" failures="0">
+=======
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="uoa.assignment.game.GameTests" time="0.001" tests="2" errors="0" skipped="0" failures="0">
+>>>>>>> 83c112b30a4c1b325845554430821161ed5a8f92
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +19,11 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="CN"/>
     <property name="sun.boot.library.path" value="D:\Devlopment\jdk\Java\jdk-21\bin"/>
+<<<<<<< HEAD
     <property name="sun.java.command" value="C:\Users\Jimmy\AppData\Local\Temp\surefire7265461046984916366\surefirebooter9493542754073623797.jar C:\Users\Jimmy\AppData\Local\Temp\surefire7265461046984916366 2023-12-06T18-46-46_527-jvmRun1 surefire6413137655944012053tmp surefire_014199081585694501069tmp"/>
+=======
+    <property name="sun.java.command" value="C:\Users\Jimmy\AppData\Local\Temp\surefire6504778326115456499\surefirebooter10278246037368150675.jar C:\Users\Jimmy\AppData\Local\Temp\surefire6504778326115456499 2023-12-05T23-58-36_633-jvmRun1 surefire889677466590468667tmp surefire_01875392137297228724tmp"/>
+>>>>>>> 83c112b30a4c1b325845554430821161ed5a8f92
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\Desktop\JC2002 – Java Programming\JC2002-Java-Programming---Game\assignment\target\test-classes;D:\Desktop\JC2002 – Java Programming\JC2002-Java-Programming---Game\assignment\target\classes;C:\Users\Jimmy\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Jimmy\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +38,11 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
+<<<<<<< HEAD
     <property name="surefire.real.class.path" value="C:\Users\Jimmy\AppData\Local\Temp\surefire7265461046984916366\surefirebooter9493542754073623797.jar"/>
+=======
+    <property name="surefire.real.class.path" value="C:\Users\Jimmy\AppData\Local\Temp\surefire6504778326115456499\surefirebooter10278246037368150675.jar"/>
+>>>>>>> 83c112b30a4c1b325845554430821161ed5a8f92
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.1+12-LTS-29"/>
@@ -59,7 +71,11 @@
     <property name="java.class.version" value="65.0"/>
   </properties>
   <testcase name="checkCharactersArray" classname="uoa.assignment.game.GameTests" time="0"/>
+<<<<<<< HEAD
   <testcase name="checkPlayerAndMonsterPositionInLayout" classname="uoa.assignment.game.GameTests" time="0"/>
   <testcase name="checkLayoutInitialization" classname="uoa.assignment.game.GameTests" time="0"/>
   <testcase name="checkPlayerAndMonsterPosition" classname="uoa.assignment.game.GameTests" time="0"/>
+=======
+  <testcase name="checkLayoutInitialization" classname="uoa.assignment.game.GameTests" time="0"/>
+>>>>>>> 83c112b30a4c1b325845554430821161ed5a8f92
 </testsuite>
